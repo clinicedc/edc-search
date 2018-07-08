@@ -16,7 +16,7 @@ setup(
     author_email='ew2789@gmail.com',
     packages=find_packages(),
     include_package_data=True,
-    url='https://github.com/botswana-harvard/edc-search',
+    url='https://github.com/clinicedc/edc-search',
     license='GPL license, see LICENSE',
     description='simple edc-search form and view mixins',
     long_description=README,
