@@ -52,7 +52,7 @@ You can use dotted syntax:
         f1 = models.CharField(max_length=25, null=True)
 
         def name(self):
-            return FullName(first='Gore', last='vidal')
+            return FullName(first='Gore', last='Vidal')
 
     >>> obj = TestModel.objects.create()
     >>> obj.slug
