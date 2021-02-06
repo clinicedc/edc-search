@@ -1,4 +1,4 @@
-|pypi| |travis| |coverage|
+|pypi| |actions| |coverage|
 
 edc-search
 ----------
