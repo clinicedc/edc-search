@@ -1,7 +1,4 @@
 [run]
-omit =
-    */wsgi.py
-    setup.py
-    edc_search/apps.py
-    manage.py
-    */migrations/*
+include = edc_search/*
+omit = edc_search/tests/*,edc_search/migrations/*
+branch = 1
