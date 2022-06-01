@@ -1,4 +1,6 @@
+_version.py
 .env
+.etc
 django_crypto_fields
 
 .pydev*
