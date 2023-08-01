@@ -18,7 +18,7 @@ DEFAULT_SETTINGS = DefaultTestSettings(
     ETC_DIR=join(base_dir, app_name, "tests", "etc"),
     SUBJECT_SCREENING_MODEL="edc_metadata.subjectscreening",
     SUBJECT_CONSENT_MODEL="edc_metadata.subjectconsent",
-    SUBJECT_VISIT_MODEL="edc_metadata.subjectvisit",
+    SUBJECT_VISIT_MODEL="edc_visit_tracking.subjectvisit",
     SUBJECT_VISIT_MISSED_MODEL="edc_metadata.subjectvisitmissed",
     INSTALLED_APPS=[
         "django.contrib.admin",
