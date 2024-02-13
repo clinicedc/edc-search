@@ -62,8 +62,8 @@ You can use dotted syntax:
 .. |pypi| image:: https://img.shields.io/pypi/v/edc-search.svg
     :target: https://pypi.python.org/pypi/edc-search
 
-.. |actions| image:: https://github.com/clinicedc/edc-search/workflows/build/badge.svg?branch=develop
-  :target: https://github.com/clinicedc/edc-search/actions?query=workflow:build
+.. |actions| image:: https://github.com/clinicedc/edc-search/actions/workflows/build.yml/badge.svg
+  :target: https://github.com/clinicedc/edc-search/actions/workflows/build.yml
 
 .. |coverage| image:: https://coveralls.io/repos/github/clinicedc/edc-search/badge.svg?branch=develop
     :target: https://coveralls.io/github/clinicedc/edc-search?branch=develop
